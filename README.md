@@ -24,11 +24,8 @@ Proxy server to connect all three components onto one page.
   - [ ] npm install
 - Run scripts.
   - [ ] npm start
-  - [ ] npm run dev:react
-  - [ ] npm run seed (Only run if you want to populate the database with items)
-- Start mongod in terminal or command prompt (If necessary for Windows)
-- Start all servers
-- Open localhost:#### (#### is the port number the proxy server is established)
+- Start all microservice servers
+- Open localhost:3000
 
 ## Requirements
 
