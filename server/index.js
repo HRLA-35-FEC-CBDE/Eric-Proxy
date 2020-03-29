@@ -81,4 +81,5 @@ server.get('/*', (req, res) => {
     if (err) res.status(400).send(err).end(); });
 });
 
+
 server.listen(port, () => console.log('Server initialized on port:', port));
