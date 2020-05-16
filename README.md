@@ -1,10 +1,10 @@
-# REI Co-op Nav Bar Mockup
+# REI Co-op Mockup Proxy Server
 
 Proxy server to connect all three components onto one page.
 
 ## Table of Contents
 
-- [REI Co-op Nav Bar Mockup](#rei-co-op-nav-bar-mockup)
+- [REI Co-op Mockup Proxy Server](#rei-co-op-mockup-proxy-server)
   - [Table of Contents](#table-of-contents)
   - [Microservices](#microservices)
   - [Usage](#usage)
