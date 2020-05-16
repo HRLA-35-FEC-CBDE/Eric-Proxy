@@ -22,8 +22,8 @@ Proxy server to connect all three components onto one page.
 
 1. Fork and clone repo(s)
 2. Install dependencies
-   1. npm scripts
-   2. docker-compose up for Dockerized services
+   1. `npm scripts`
+   2. `docker-compose up` for Dockerized services
 3. Start up each microservice
 4. Start the proxy server
    1. Only connects the navigation bar and the product view.
